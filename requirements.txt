@@ -4,3 +4,8 @@ requests
 nba_api
 notebook
 python-dotenv
+scikit-learn
+lightgbm
+xgboost
+matplotlib
+seaborn
